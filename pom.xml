@@ -54,7 +54,7 @@
                 <version>2.5.1</version>
                 <configuration>
                     <outputDirectory>
-                        ${project.build.directory}/lib/
+                        ${project.build.directory}
                     </outputDirectory>
                     <overWriteReleases>false</overWriteReleases>
                     <overWriteSnapshots>false</overWriteSnapshots>
